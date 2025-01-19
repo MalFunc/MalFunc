@@ -1,15 +1,40 @@
-## Hi there 👋
+# 👋 Welcome to MalFunc's GitHub!
 
+### 🔗 Connect with Me
+- **LinkedIn**: [Maulana Malik Hidayat](https://id.linkedin.com/in/maulana-malik-hidayat-a9a6141a0)
+- **YouTube**: [MalFuncNoRet](#) (https://www.youtube.com/@MalFuncNoRet)
 
-**MalFunc/MalFunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalFunc&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🏆 GitHub Trophies
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MalFunc&theme=radical)
+
+---
+
+### 🛠️ Skills
+- 🔧 **Languages**: Python, JavaScript, C++
+- 🌐 **Web Development**: HTML, CSS, React
+- ☁️ **Cloud**: AWS, Docker, Kubernetes
+- 🔒 **Security**: Penetration Testing, CTF Challenges
+
+---
+
+### 🚀 Projects
+- 🌟 NOT YET
+
+---
+
+### 🎮 Fun Facts
+- Saya suka memecahkan tantangan CTF!
+- **Motivasi saya**: "Belajar tanpa batas, eksplorasi tanpa henti."
+
+---
+
+### 📬 Get in Touch
+📧 **Email**: [malikdayat1207@gmail.com](mailto:malikdayat1207@gmail.com)  
+💬 **Discord**: MalFunc#1234  
