@@ -2,7 +2,7 @@
 
 ### 🔗 Connect with Me
 - **LinkedIn**: [Maulana Malik Hidayat](https://id.linkedin.com/in/maulana-malik-hidayat-a9a6141a0)
-- **YouTube**: [MalFuncNoRet](#) (https://www.youtube.com/@MalFuncNoRet)
+- **YouTube**: [MalFuncNoRet](https://www.youtube.com/@MalFuncNoRet)
 
 ---
 
