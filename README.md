@@ -1,5 +1,34 @@
-# 💫 About Me:
-# 👋 Welcome to MalFunc's GitHub!<br><br>🔗 Connect with Me<br>- **LinkedIn**: [Maulana Malik Hidayat](https://id.linkedin.com/in/maulana-malik-hidayat-a9a6141a0)<br>- **YouTube**: [MalFuncNoRet](https://www.youtube.com/@MalFuncNoRet)<br><br><br><br><br><br>🛠️ Skills<br>- 🔧 **Languages**: Python, JavaScript, C++<br>- 🌐 **Web Development**: HTML, CSS, React<br>- ☁️ **Cloud**: AWS, Docker, Kubernetes<br>- 🔒 **Security**: Penetration Testing, CTF Challenges<br><br>---<br><br>🚀 Projects<br>- 🌟 NOT YET<br><br>---<br><br>🎮 Fun Facts<br>- Saya suka memecahkan tantangan CTF!<br>- **Motivasi saya**: "Belajar tanpa batas, eksplorasi tanpa henti."<br><br><br><br>📬 Get in Touch<br>📧 **Email**: [malikdayat1207@gmail.com](mailto:malikdayat1207@gmail.com)  <br>
+# 💫 About Me
+👋 Welcome to **MalFunc's GitHub**!
+
+🔗 **Connect with Me**  
+- [LinkedIn](https://id.linkedin.com/in/maulana-malik-hidayat-a9a6141a0)  
+- [YouTube](https://www.youtube.com/@MalFuncNoRet)  
+
+---
+
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, C++  
+- **Web Development**: HTML, CSS, React  
+- **Cloud**: AWS, Docker, Kubernetes  
+- **Security**: Penetration Testing, CTF Challenges  
+
+---
+
+## 🚀 Projects
+🌟 *Coming Soon!*
+
+---
+
+## 🎮 Fun Facts
+- 🧩 Loves solving CTF challenges  
+- 🌟 Motto: "Belajar tanpa batas, eksplorasi tanpa henti."  
+
+---
+
+📬 **Get in Touch**  
+📧 [malikdayat1207@gmail.com](mailto:malikdayat1207@gmail.com)  
+
 
 
 ## 🌐 Socials:
