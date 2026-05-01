@@ -2,10 +2,9 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
-# CRITICAL FIX: Grant write permissions so git can push the output branch
 permissions:
   contents: write
 
@@ -13,19 +12,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # ⬇️ Fix 1: Upgrade ke v6 (Node 24 ready)
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
+      # ⬇️ Fix 2: Tambahin env GITHUB_TOKEN — ini penyebab ERROR lu!
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # FIX: Raw git deploy avoids exit 128 AND removes the Node 20 deprecation warning
       - name: Push to output branch
         run: |
           cd dist
