@@ -12,11 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # ⬇️ Fix 1: Upgrade ke v6 (Node 24 ready)
       - name: Checkout
         uses: actions/checkout@v6
 
-      # ⬇️ Fix 2: Tambahin env GITHUB_TOKEN — ini penyebab ERROR lu!
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -35,4 +33,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "chore: update snake animation [skip ci]"
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:output
