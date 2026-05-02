@@ -111,7 +111,7 @@
 <p align="center">
   👋 Welcome to <strong>MalFunc's</strong> digital lair!<br><br>
   🗿 <em>Idk what i'm saying.....</em><br>
-  🧩 <strong>CTF Grinder</strong> | 🔐 <strong>Security Tinkerer</strong> | 🐍 <strong>Python Wrangler</strong><br><br>
+   <strong>CTF Grinder</strong> |  <strong>Security Tinkerer</strong> |  <strong>Python Wrangler</strong><br><br>
   🌟 <strong>Motto:</strong> <code>"Belajar, belajar, belajar tapi jangan sampai TIPES."</code>
 </p>
 
@@ -133,7 +133,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     GITHUB DASHBOARD                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <table width="100%" align="center">
   <tr>
@@ -160,7 +160,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                   ACTIVITY PULSE                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">🔥 Contribution Pulse</h2>
+<h2 align="center"> Contribution Pulse</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalFunc&theme=react-dark&area=true&hide_border=true&color=FFB800&line=FF6A00&point=ffffff&bg_color=0d1117" width="100%" alt="Activity Graph" />
@@ -171,7 +171,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║              ANIMATED CONTRIBUTION SNAKE                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"> Contribution Snake</h2>
 
 <p align="center">
   <picture>
